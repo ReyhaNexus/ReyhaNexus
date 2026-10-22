@@ -7,7 +7,7 @@ I’m currently teaching myself programming, data analysis, AI, and bioinformati
 🌱 Currently learning
 
 * Bioinformatics
-* Data Analysis
+* Python & Data Analysis
 * AI & Machine Learning
 
 🔬 Things I’m interested in
